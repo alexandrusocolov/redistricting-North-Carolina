@@ -1,4 +1,4 @@
-# Developing Weighted K-Means algorithm for Redistricting North Carolina
+# Weighted K-Means algorithm for Redistricting in North Carolina
 
 Developing an unsupervised ML method for drawing the voting districts in North Carolina. 
 
