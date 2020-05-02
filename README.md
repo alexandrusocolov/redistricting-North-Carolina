@@ -20,6 +20,7 @@ I extend the method by weighting the distances not only by population but also b
 3. `demo_SSP_asrc.csv`: Projected zip-code level population data from https://osf.io/uh5sj/ subsetted for North Carolina in 2030 and 2050
 
 **Demonstration**
+
 `weighted_kmeans.py` is a Python script that implements the Weighted K-means from scratch.
 
 A demonstration of how to use the method can be found in `demo_weighted_kmeans.ipynb`. The notebook also includes visualizations of the proposed maps for 2016 as well as the projected maps in 2030 and 2050 based on this paper https://www.nature.com/articles/sdata20195. 
